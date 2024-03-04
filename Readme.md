@@ -115,3 +115,6 @@ By following these steps, you'll have set up a virtual environment with all the 
 ## Conclusion
 
 This project demonstrates the application of machine learning techniques in healthcare for predicting heart disease risk based on patient attributes. By leveraging a comprehensive dataset and following a systematic modelling framework, it provides insights into the factors influencing heart health and facilitates informed decision-making in clinical settings.
+
+
+##### NOTE: Do not completely rely on this model for predicting if you have heart disease or not 
